@@ -43,15 +43,13 @@
 
 }
 
-
-
-
-
-.overlay {
-
+.cover {
+    background-image: url('../images/cover.jpg');
+    color: white;
 }
 
 .cover__title {
+    font-size: 100px;
 
 }
 
